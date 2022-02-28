@@ -2,11 +2,11 @@
 
 # 神无常
 
-## 快速搭建博客
+## 沉淀、分享、成长
 
-- 本仓库以基于 docsify 构建的所见即所得博客，程序员👨🏻‍💻伙伴可以通过克隆仓库，配置基础的信息就可以拥有一个这样的博客了！
+- 天行健，君子以自强不息
     
-[![stars](https://badgen.net/github/stars/fuzhengwei/fuzhengwei.github.io?icon=github&color=4ab8a1)](https://github.com/fuzhengwei/fuzhengwei.github.io) [![forks](https://badgen.net/github/forks/fuzhengwei/fuzhengwei.github.io?icon=github&color=4ab8a1)](https://github.com/fuzhengwei/fuzhengwei.github.io) 
+[![stars](https://badgen.net/github/stars/shenyiwu/shenyiwu.github.io?icon=github&color=4ab8a1)](https://github.com/shenyiwu/shenyiwu.github.io) [![forks](https://badgen.net/github/forks/shenyiwu/shenyiwu.github.io?icon=github&color=4ab8a1)](https://github.com/shenyiwu/shenyiwu.github.io) 
 
-[GitHub](<https://github.com/fuzhengwei/fuzhengwei.github.io>)
+[GitHub](<https://github.com/shenyiwu/shenyiwu.github.io>)
 [开始阅读](README.md)
