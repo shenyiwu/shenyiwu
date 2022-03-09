@@ -5,5 +5,9 @@
     - [劝学](/md/study/study.md)
     - [git](/md/study/git.md)
     - [mysql](/md/study/mysql.md)
+    - [redis](/md/study/redis.md)
+    - [kafka](/md/study/kafka.md)
+    - [dubbo](/md/study/dubbo.md)
+    - [docker](/md/study/docker.md)
 - [其他](/md/other/other.md)
     
