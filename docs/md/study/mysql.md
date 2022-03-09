@@ -100,7 +100,7 @@ sql_mode=STRICT_TRANS_TABLES,NO_ZERO_IN_DATE,NO_ZERO_DATE,ERROR_FOR_DIVISION_BY_
 
 
 
-# MySql日期
+MySql日期
 
 ```
 MySQL自带的日期函数TIMESTAMPDIFF计算两个日期相差的秒数、分钟数、小时数、天数、周数、季度数、月数、年数，当前日期增加或者减少一天、一周等等。
